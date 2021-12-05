@@ -12,19 +12,19 @@ So, we essentially need to build two things: the webpage that will allow users t
 
 Webpage view without filters
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/1.png" width="180">
+<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/1.png" width="480">
 
 We can add a filter with one criteria, to filter we have to enter a value in one of the 5 input boxes and click outside the input box or hitting enter to start the filter.
 
 Webpage with one filter
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="180">
+<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="480">
 
 We can also add a filter with multiple criteria, entering the values ​​in each input boxes that we require.
 
 Webpage with multiple filters
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="180">
+<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="480">
 
 To restart the filter we can go to de nav bar button to reload the webpage, or just ereasing the input box.
 
